@@ -78,24 +78,26 @@ Les tarifs sont les suivants :
 
 ### jour 2 matin
 - 9h : Rappel jour 1 et emmergement (10 mins)
-- 9h10 : Presentaion du Wardley mapping et DDD (20 mins)
-- 9h30 : Présentation du pattern strategic
-  - Présentation des concepts (Domain, Subdomain, Bounded Context, Context mapping, Ubiquitous language, Domain type) (20 mins)
+- 9h10 : Rappel des pattern strategique (explication plus précise de wardley mapping)
+- 9h30 : Reprise de l'event storming
+  - Ajout de notification, de la gestion du stocks, des commandes avants les events et on se concentre sur la réservation
   - Découpage en Bounded Context (event storming Design level) (30 mins)
-  - Réflexion sur Domain type de notre fil rouge (5 mins)
   - **Excercice 6** : Bounded Context canvas (30 mins)
+  - Réflexion sur Domain type de notre fil rouge (5 mins) exemple reservation
 - 10h45 : Pause
 - 11h : Patterns de communication (10 mins)
-  - Présentation des patterns de communication entre Bounded Context
+  - Présentation des patterns de communication entre Bounded Context (OpenHostService => )
   - **Excercice 7** : Context mapping (1h)
 - 12h30 : Déjeuner
 
 ### jour 2 après midi (à completer)
 - 13h30 : Rappel des différents pattens startegique et emmergement (10 mins)
+- Microservice
+- Bubble context et ACL
 - 13h40 : Présentation des patterns tactical (15 mins)
   - Présentation des concepts (Aggregat, Entity, Value Object, Domain Service, Repository, Factory) (15 mins)
-  - **Excercice 8** : Identification des aggregats (45 mins)
-
+  - **Excercice 8** : Identification des aggregats (event storming) (45 mins)
+  - 
 ### jour 3 matin (à completer)
 
 ### jour 3 après midi (à completer)
